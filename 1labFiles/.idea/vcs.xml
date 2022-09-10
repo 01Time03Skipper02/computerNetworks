@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-colorable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-isatty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mgutz/ansi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mgutz/logxi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/skorobogatov/input" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/sys" vcs="Git" />
+  </component>
+</project>
